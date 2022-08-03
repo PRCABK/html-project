@@ -1,0 +1,164 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+a{
+    text-decoration: none;
+    margin: 20px;
+    color: black;
+}
+.div2{
+    padding: 50px;
+    width: 1500px;
+    height: 50px;
+}
+.div2-1{
+    position: absolute;
+    right: 10px;
+    top: 90px;
+}
+#a1{
+    font-size: 50px;
+    color: black;
+}
+
+img{
+    padding: 100px;
+    width: 600px;
+    height:500px;
+    float: left;
+}
+.a2{
+    width: 20px;
+    height: 10px;
+    font-size: 20px;
+}
+h2{
+    padding-top: 150px;
+    padding-bottom: 20px;
+    font-size: 40px;
+}
+.span1{
+    color: red;
+}
+.p1{
+    font-size: 20px;
+    padding: 15px;
+    line-height: 40px;
+    
+}
+.p2{
+    font-size: 20px;
+    padding-top: 15px;
+    color: red;
+}
+#p3{
+    font-size: 20px;
+    padding: 10px;
+    line-height: 40px;
+}
+.span2{
+    color: red;
+    font-size: 40px;
+}
+.input1{
+    border: none;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.div3-1{
+    position: relative;
+}
+.div3-3{
+    border: 2px solid black;
+    width: 700px;
+    height: 100px;
+    float: left;
+    border-radius: 15px;
+}
+.div3-3-1{
+    width: 50px;
+    height: 50px;
+    margin:0 auto;
+   padding-top: 30px;
+}
+.div3-3-2{
+    width: 50px;
+    height: 50px;
+    margin: 0 250px;
+    padding-top: 30px;
+}
+.div3-3-3{
+    width: 50px;
+    height: 50px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+.div3-4,.div3-5{
+    float: left;
+}
+#a4-1{
+    border: solid black 1px;
+    display: inline-block;
+    margin-left: 100px;
+    width: 350px;
+    height: 80px;
+    text-align: center;
+    border-radius: 15px;
+    padding-top: 40px;
+    background-color:#e03d3d;
+    color: white;
+}
+#a4-2{
+    border: solid black 1px;
+    display: inline-block;
+    margin-left: 0px;
+    width: 300px;
+    height: 80px;
+    text-align: center;
+    border-radius: 15px;
+    padding-top: 40px;
+    background-color: #008cff;
+    color: white;
+}
+.div4{
+    float: left;
+}
+#img5-1,#img5-2{
+    padding: 0px;
+    margin: 0px;
+    width: 1600px;
+    height: 4834px;
+}
+#img5-3{
+    padding: 0px;
+    margin: 0px;
+    width: 1600px;
+    height: 3333px;
+}
+#img5-4{
+    padding: 0px;
+    margin: 0px;
+    width: 1600px;
+    height:2500px;
+}
+#img5-5{
+    padding: 0px;
+    margin: 0px;
+    width: 1600px;
+    height: 2807px;
+}
+#img5-6{
+    padding: 0px;
+    margin: 0px;
+    width: 1600px;
+    height: 2290px;
+}
+#img5-7{
+    padding: 0px;
+    margin: 0px;
+    width: 1600px;
+    height: 5634px;
+}
