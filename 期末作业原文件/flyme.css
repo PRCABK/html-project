@@ -1,0 +1,134 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.div1{
+    width: 1600px;
+    height: 500px;
+    background-image: url(img/6.1.png);
+    background-size: 1550px;
+}
+.div2{
+    height: 900px;
+    width: 1250px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.div2-1{
+    width: 780px;
+    height: 533px;
+    float: left;
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+.div2-1:hover{
+    width: 780px;
+    height: 533px;
+    float: left;
+    position: relative;
+    left: 20px;
+    top: 20px;
+    transform: scale(1.01);
+}
+.div2-2{
+    width: 400px;
+    height: 533px;
+    float: left;
+    position: relative;
+    left: 40px;
+    top: 20px;
+}
+.div2-2:hover{
+    width: 400px;
+    height: 533px;
+    float: left;
+    position: relative;
+    left: 40px;
+    top: 20px;
+    transform: scale(1.01);
+}
+.div2-3{
+    width: 400px;
+    height: 300px;
+    float: left;
+    position: relative;
+    left: 20px;
+    top: 40px;
+}
+.div2-3:hover{
+    width: 400px;
+    height: 300px;
+    float: left;
+    position: relative;
+    left: 20px;
+    top: 40px;
+    transform: scale(1.01);
+}
+.div2-4{
+    width: 400px;
+    height: 300px;
+    float: left;
+    position: relative;
+    left: 40px;
+    top: 40px;
+}
+.div2-4:hover{
+    width: 400px;
+    height: 300px;
+    float: left;
+    position: relative;
+    left: 40px;
+    top: 40px;
+    transform: scale(1.01);
+}
+.div2-5{
+    width: 360px;
+    height: 300px;
+    float: left;
+    position: relative;
+    left: 60px;
+    top: 40px;
+}
+.div2-5:hover{
+    width: 360px;
+    height: 300px;
+    float: left;
+    position: relative;
+    left: 60px;
+    top: 40px;
+    transform: scale(1.01);
+}
+.a1{
+    display: inline-block;
+    color: rgb(0, 149, 255);
+    text-decoration: none;
+    padding-left: 40px;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.img1{
+    width: 780px;
+    height: 533px;
+    border-radius: 15px;
+}
+.img2{
+    width: 400px;
+    height: 533px;
+    border-radius: 15px;
+}
+.img3{
+    width: 400px;
+    height: 300px;
+    border-radius: 15px;
+}
+.img4{
+    width: 400px;
+    height: 300px;
+    border-radius: 15px;
+}
+.img5{
+    width: 360px;
+    height: 300px;
+    border-radius: 15px;
+}

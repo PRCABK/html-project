@@ -1,0 +1,73 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.div1{
+    float: left;
+    line-height: center;
+    
+}
+.ul2 li{
+    float: left;
+    list-style: none;
+    width: 100px;
+    line-height: 50px;
+    text-align: center;
+}
+a:hover{
+    color: darkturquoise;
+}
+
+.ul1 li{
+    display: none;
+
+}
+.ul2 li:hover .ul1 li{
+    display: block;
+}
+.ul1 li{
+    position: relative;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: aliceblue;
+    font-family: '黑体';
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+}
+.div3{
+    background-image: url(img/1.jpg);
+    float: left;
+    width: 1600px; 
+    height: 750px; 
+    background-size:cover;
+}
+input{
+    width: 400px;
+    height: 29px;
+    border:1px solid gray;
+    outline: none;
+    font-size: 20px;
+    line-height: 30px;
+    border-radius: 15px 0 0 15px;
+}
+button{
+    width: 60px;
+    height: 29px;
+    /* vertical-align: 1px; */
+    background: #008cff;
+    outline: none;
+    border:1px solid #008cff;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 0 15px 15px 0;
+    color: aliceblue;
+}
+#lili{
+    padding-top: 10px;
+    text-decoration: none;
+    list-style: none;
+}
